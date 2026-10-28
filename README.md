@@ -1,0 +1,2 @@
+# DDosMENU
+menu KILL
